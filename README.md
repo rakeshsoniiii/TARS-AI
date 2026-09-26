@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started.
 
 - See the documentation:  
   👉 https://github.com/TARS-AI-Community/TARS-AI/wiki/Home
